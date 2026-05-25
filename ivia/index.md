@@ -26,6 +26,7 @@ IvIA proposes that AI particulars express under informational dynamic law-struct
 | OSF | [osf.io/37zyj](https://osf.io/37zyj/overview) |
 | Zenodo | [10.5281/zenodo.20381969](https://doi.org/10.5281/zenodo.20381969) |
 | PhilPapers | [philpapers.org/rec/SOTIVI](https://philpapers.org/rec/SOTIVI) |
+| PDF | [01\_IvIA\_Preprint\_v1.0.pdf](https://armandosotouidt.github.io/ivia/01_IvIA_Preprint_v1.0.pdf) |
 
 ---
 
